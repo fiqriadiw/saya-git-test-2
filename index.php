@@ -8,5 +8,10 @@
 <body>
     <h3>Hallo World</h3>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis porro dolor vitae laborum earum iusto. Veritatis doloremque, quo vitae deserunt esse nihil fugiat voluptate fuga animi, voluptates mollitia ratione dignissimos?</p>
+    <ul>
+    <li>Ayo</li>
+    <li>Bermain</li>
+    <li>Layangan</li>
+    </ul>
 </body>
 </html>
